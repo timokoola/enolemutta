@@ -52,3 +52,11 @@ docs/_build/
 
 # PyBuilder
 target/
+
+# Keys
+*.keys
+
+# Tweeted tweets 
+*.twts
+
+
